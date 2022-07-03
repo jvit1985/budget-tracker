@@ -1,5 +1,3 @@
-const { response } = require("express");
-
 let db;
 const request = indexedDB.open('budget_tracker', 1);
 
@@ -38,7 +36,7 @@ function uploadTransaction() {
 
     getAll.onsuccess = function() {
         if (getAll.result.length > 0) {
-            fetch('/api/transactions', {
+            fetch('/api/transaction', {
                 method: 'POST',
                 body: JSON.stringify(getAll.result),
                 headers: {
