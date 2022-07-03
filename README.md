@@ -28,7 +28,8 @@
 
   Deployed Website: https://warm-reef-32239.herokuapp.com/
   
-  ![screencapture-warm-reef-32239-herokuapp-2022-07-03-10_41_13](https://user-images.githubusercontent.com/54601156/177046970-010aa751-d90b-4ca2-8cec-4d9aeeb08ae6.jpg)
+  ![screencapture-warm-reef-32239-herokuapp-2022-07-03-10_47_49](https://user-images.githubusercontent.com/54601156/177047211-d06a44c0-d4f1-4e92-9bc6-cc735fc7657d.jpg)
+
 
   
   ## License
